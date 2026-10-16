@@ -30,7 +30,7 @@ L'original n'est pas modifié : la feuille est construite sur un **nouveau plan 
 
   Le script apparaît alors dans *Fichier > Scripts*.
 
-Le fichier est en UTF-8 (avec BOM) pour que les accents s'affichent correctement ; gardez cet encodage si vous le modifiez.
+Le fichier est en UTF-8. Si les accents de la fenêtre s'affichent mal (surtout sous Windows), réenregistrez-le en « UTF-8 avec BOM » dans votre éditeur de texte.
 
 ## Utilisation / Usage
 
